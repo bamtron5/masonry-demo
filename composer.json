@@ -1,5 +1,6 @@
 {
 	"require":{
-		"components/masonry": "3.2.2"
+		"components/masonry": "3.2.2",
+		"components/jquery": "2.1.3"
 	}
 }
